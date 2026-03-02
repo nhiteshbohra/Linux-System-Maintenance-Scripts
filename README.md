@@ -46,11 +46,5 @@ A comprehensive script to perform full system maintenance on Kali Linux. It auto
 - These scripts are intended for Kali Linux. Use on other distributions at your own risk.
 - Review scripts before running, especially if you modify them.
 
-## Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
 
