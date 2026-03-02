@@ -23,8 +23,8 @@ A comprehensive script to perform full system maintenance on Kali Linux. It auto
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url>
-   cd <repo-directory>
+   git clone https://github.com/nhiteshbohra/Linux-System-Maintenance-Scripts.git
+   cd Linux-System-Maintenance-Scripts
    ```
 
 2. **Make the script executable:**
@@ -53,3 +53,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License.
+
